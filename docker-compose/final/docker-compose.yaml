@@ -24,3 +24,6 @@ services:
         - 5000:5000
       environment:
         - CHOKIDAR_USEPOLLING=true
+
+# to run
+# docker-compose up
